@@ -15,7 +15,7 @@
 </head>
 <body>
     <table border="1">
-        <td>编号[测试]</td>
+        <td>编号</td>
         <td>名称</td>
         <td>职业</td>
         <td>电话</td>
